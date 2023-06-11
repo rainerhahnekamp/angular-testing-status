@@ -1,0 +1,16 @@
+{
+  "name": "web-test-runner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "web-test-runner \"test/**/*.test.js\" --node-resolve --playwright --manual --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@esm-bundle/chai": "^4.3.4-fix.0",
+    "@web/test-runner": "^0.16.1",
+    "@web/test-runner-playwright": "^0.10.0"
+  }
+}

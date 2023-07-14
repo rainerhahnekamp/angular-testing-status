@@ -5,4 +5,4 @@ You can find the full article on [Angular Testing in 2023 – Past, Present, and
 
 And if you prefer a video over an article, there you go:
 
-https://youtu.be/4z5IhNdonv8
+<a href="https://youtu.be/4z5IhNdonv8" target="_blank"><img src="Cover%20Testing%20YouTube.jpg"></a>
